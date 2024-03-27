@@ -13,3 +13,6 @@ Today we are learning Github and Markdown. In the afternoon we are going to set 
 1. Item 1
 2. Item 2
 3. Item 3
+
+## link a page
+[Spiced Academy](spiced.com)
