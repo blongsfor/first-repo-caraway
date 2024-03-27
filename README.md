@@ -19,4 +19,5 @@ Today we are learning Github and Markdown. In the afternoon we are going to set 
 
 ## add images
 
-## add files 
+### Image in repo
+![Ente](./ente.jpg)
