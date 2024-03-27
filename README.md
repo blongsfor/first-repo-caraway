@@ -16,3 +16,7 @@ Today we are learning Github and Markdown. In the afternoon we are going to set 
 
 ## link a page
 [spiced.com](https://www.spiced-academy.com/de)
+
+## add images
+
+## add files 
