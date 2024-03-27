@@ -21,3 +21,6 @@ Today we are learning Github and Markdown. In the afternoon we are going to set 
 
 ### Image in repo
 ![Ente](./ente.jpg)
+
+### add image from web
+![Ente2](https://img.freepik.com/vektoren-kostenlos/kleine-ente-auf-weissem-grund_1308-91145.jpg?size=626&ext=jpg&ga=GA1.1.967060102.1710288000&semt=ais)
