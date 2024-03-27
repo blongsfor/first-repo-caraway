@@ -4,7 +4,12 @@ Today we are learning Github and Markdown. In the afternoon we are going to set 
 
 ## List in Md.
 
-### Unorder List. 
+### Unordered List. 
 - Item 1
 - Item 2
 - Item 3
+
+### odered List
+1. Item 1
+2. Item 2
+3. Item 3
